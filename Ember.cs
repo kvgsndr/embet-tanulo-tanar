@@ -9,7 +9,7 @@ class Ember
             Console.WriteLine("Szia, {0} vagyok, {1} éves {2}", nev, kor, nem);
 
         }
-        public void getCel()
+        public virtual void getCel()
         {
             Console.WriteLine("Élj a mának! ");
         }
