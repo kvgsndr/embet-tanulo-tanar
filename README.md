@@ -21,7 +21,10 @@
  Írj osztályt, Tanár objektumot valósít meg. Szülőosztálya legyen az Ember osztály.
  Hozzáadott mezők: 
     Tanitott tantárgyak(string[])
-    ....
+    .
+    .
+    .
+    .
     
  
 
